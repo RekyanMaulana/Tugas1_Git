@@ -1,0 +1,4 @@
+Ini adalah rincian dari tugas 1 :
+1. Buat minimal 3 branch 
+2. Terdapat 2 file per branch
+3. Edit file tersebut
